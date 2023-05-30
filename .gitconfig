@@ -1,0 +1,9 @@
+[user]
+	email = 91231458+HuJJ-NB@users.noreply.github.com
+	name = HuJJ-NB
+[color]
+	ui = true
+[core]
+	editor = nvim
+[init]
+	defaultBranch = master

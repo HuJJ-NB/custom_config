@@ -1,0 +1,7 @@
+-- -- Auto save
+-- vim.api.nvim_create_autocmd({ "InsertLeave", "TextChanged" }, {
+--     pattern = { "*" },
+--     group = nvimauto,
+--     command = "silent! wall",
+--     nested = true,
+-- })
